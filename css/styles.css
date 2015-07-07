@@ -1,0 +1,21 @@
+/*CSS code*/
+/*Format of body general of page*/
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #c5c5c5;
+    padding: 20px 10px;
+    font-size: 14px;
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+/*delete vignette of list*/
+ul {
+  list-style-type: none;
+}
+/*format of titles and subtitles*/
+h1,
+h2 {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
